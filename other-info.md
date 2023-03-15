@@ -4,7 +4,7 @@ Other information about Sirius.
 
 ## DomainX Premium
 
-DomainX premium users are allowed free Sirius Pro as long as they are able to prove that they purchased in the past.
+DomainX was discontinued so the team could focus more on Sirius, along with this, DomainX became open source, making premium useless. DomainX premium users are able to transfer their licenses to Sirius Pro if they haven't already. They will just some type of proof of purchase.
 
 ## Solaris Premium
 

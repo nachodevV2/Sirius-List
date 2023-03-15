@@ -4,12 +4,12 @@ Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE G
 
 ## Working
 
-• Arsenal
+• Arsenal - Last updated: Feb. 27, 2023
 
 ## Patched
 
-• Phantom Forces
-• Bad Business
+• Phantom Forces - Last updated: Dec. 12, 2022
+• Bad Business - Last updated: Unknown
 
 ## Releasing Soon
 

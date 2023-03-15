@@ -75,5 +75,5 @@ Here's a list of all known errors and their fixes for Sirius.
 <details>
 <summary>Script can only be executed once per session.</summary>
 <br>
-  They need to use Sirius loaders on games listed in `` games.md ``.
+  They need to use Sirius loaders on games listed in games.md
 </details>

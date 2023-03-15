@@ -8,4 +8,4 @@ DomainX was discontinued so the team could focus more on Sirius, along with this
 
 ## Solaris Premium
 
-Most of the Sirius team owned or worked on a script called Solaris which discontinued in August of 2022. For 2 weeks, Solaris premium users were able to get free Sirius Pro however, this deal is no longer a thing.
+Most of the Sirius team owned or worked on a script called Solaris which discontinued in August of 2022. For 2 weeks, Solaris premium users were able to get free Sirius Essential however, this deal is no longer a thing.

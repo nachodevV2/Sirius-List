@@ -70,6 +70,12 @@ Here's a list of all known errors and their fixes for Sirius.
   Key is not for Sirius.
 </details>
 
+<details>
+<summary>ATKN Errors</summary>
+<br>
+  ATKN errors are heartbeat related, generally they will have a code. The last three digits is the HTTP error code, look it up on Google. For example, if you have ATKN5409, 409 would be the HTTP error.
+</details>
+
 ## Other Errors
 
 <details>

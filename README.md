@@ -1,3 +1,3 @@
 # Fuck-Slasha
 
-Information repository for Sirius. Includes [game list](https://github.com/Razr7315/Fuck-Slasha/games.md), [supported executor list](https://github.com/Razr7315/Fuck-Slasha/supported-executors.md), and [error list](https://github.com/Razr7315/Fuck-Slasha/errors.md)
+Information repository for Sirius. Includes [game list](/games.md), [supported executor list](/supported-executors.md), and [error list](/errors.md)

@@ -25,3 +25,7 @@ Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE G
 
 
 • FRONTLINES
+• BIG Paintball!
+
+• Project: Lazarus
+

@@ -4,31 +4,31 @@ Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE G
 
 ## Working
 
-• Arsenal - Last updated: Feb. 27, 2023
+• [Arsenal](https://www.roblox.com/games/286090429) - Last updated: Feb. 27, 2023
 
 ## Patched
 
-• Phantom Forces - Last updated: Dec. 12, 2022
+• [Phantom Forces](https://www.roblox.com/games/292439477) - Last updated: Dec. 12, 2022
 
 
-• Bad Business - Last updated: Unknown
+• [Bad Business](https://www.roblox.com/games/3233893879) - Last updated: Unknown
 
 ## Releasing Soon
 
-• Doors
+• [Doors](https://www.roblox.com/games/6516141723)
 
 
-• Murder Mystery 2
+• [Murder Mystery 2](https://www.roblox.com/games/142823291)
 
 
-• Tower of Hell
+• [Tower of Hell](https://www.roblox.com/games/1962086868)
 
 
-• FRONTLINES
+• [FRONTLINES](https://www.roblox.com/games/5938036553)
 
 
-• BIG Paintball!
+• [BIG Paintball!](https://www.roblox.com/games/3527629287)
 
 
-• Project: Lazarus
+• [Project: Lazarus](https://www.roblox.com/games/443406476)
 

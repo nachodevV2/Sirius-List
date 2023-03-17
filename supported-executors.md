@@ -4,20 +4,20 @@ Here's a list of all supported executors for Sirius.
 
 ## Free
 
-• KRNL
+• [KRNL](https://krnl.place)
 
 
-• Fluxus
+• [Fluxus](https://fluxteam.net)
 
 
-• Oxygen U
+• [Oxygen U](https://wearedevs.net/d/Oxygen%20U)
 
 ## Paid
 
-• Synapse X
+• [Synapse X](https://x.synapse.to)
 
 
-• Script-Ware W/M (iOS untested)
+• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m) ([iOS](https://script-ware.com/ios) untested)
 
 
-• Sirhurt
+• [Sirhurt](https://sirhurt.net)

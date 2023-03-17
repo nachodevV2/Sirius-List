@@ -7,10 +7,10 @@ Here's a list of all supported executors for Sirius.
 • [KRNL](https://krnl.place)
 
 
-• [Fluxus](https://fluxteam.net)
+• [Fluxus](https://fluxteam.net) (May sometimes have issues)
 
 
-• [Oxygen U](https://wearedevs.net/d/Oxygen%20U)
+• [Oxygen U](https://wearedevs.net/d/Oxygen%20U) (May sometimes have issues)
 
 ## Paid
 

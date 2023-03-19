@@ -4,9 +4,6 @@ Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE G
 
 ## Working
 
-• [Arsenal](https://www.roblox.com/games/286090429) - Last updated: Feb. 27, 2023
-
-
 • [Murder Mystery 2](https://www.roblox.com/games/142823291) - Last updated: Mar. 18, 2023
 
 
@@ -18,6 +15,9 @@ Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE G
 
 
 • [Bad Business](https://www.roblox.com/games/3233893879) - Last updated: Unknown
+
+
+• [Arsenal](https://www.roblox.com/games/286090429) - Last updated: Feb. 27, 2023
 
 ## Releasing Soon
 

@@ -1,6 +1,6 @@
 # Sirius Supported Games
 
-Here's a list of all supported games for Sirius. **USE SIRIUS LOADER FOR THESE GAMES**.
+Here's a list of all supported games for Sirius. **You need to use Sirius Loader for these games**.
 
 ## Working
 

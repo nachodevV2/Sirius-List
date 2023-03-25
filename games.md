@@ -21,12 +21,7 @@ Here's a list of all supported games for Sirius. **You need to use Sirius Loader
 
 • [Doors](https://www.roblox.com/games/6516141723)
 
-
 • [FRONTLINES](https://www.roblox.com/games/5938036553)
-
-
-• [BIG Paintball!](https://www.roblox.com/games/3527629287)
-
 
 • [Project: Lazarus](https://www.roblox.com/games/443406476)
 

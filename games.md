@@ -5,8 +5,9 @@ Here's a list of all supported games for Sirius. **You need to use Sirius Loader
 ## Working
 
 • [Murder Mystery 2](https://www.roblox.com/games/142823291) - Last updated: Mar. 18, 2023
- 
 
+• [Bad Business](https://www.roblox.com/games/3233893879) - Last updated: Mar. 25, 2023
+ 
 • [Tower of Hell](https://www.roblox.com/games/1962086868) - Last updated: Mar. 18, 2023
 
 ## Patched
@@ -30,4 +31,4 @@ Here's a list of all supported games for Sirius. **You need to use Sirius Loader
 • [Project: Lazarus](https://www.roblox.com/games/443406476)
 
 
-• [Bad Business](https://www.roblox.com/games/3233893879)
+

@@ -14,7 +14,6 @@ Here's a list of all supported games for Sirius. **You need to use Sirius Loader
 
 • [Phantom Forces](https://www.roblox.com/games/292439477) - Last updated: Dec. 12, 2022
 
-
 • [Arsenal](https://www.roblox.com/games/286090429) - Last updated: Feb. 27, 2023
 
 ## Releasing Soon

@@ -17,7 +17,7 @@ Here's a list of all supported executors for Sirius.
 • [Synapse X](https://x.synapse.to)
 
 
-• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m) ([iOS](https://script-ware.com/ios) untested)
+• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m) ([iOS](https://script-ware.com/ios) tested by nachodev, May have some issues)
 
 
 • [Sirhurt](https://sirhurt.net)

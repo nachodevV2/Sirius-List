@@ -6,7 +6,8 @@ local ids = {
     3233893879, -- BB
     6516141723, -- Doors
     5938036553, -- FRONTLINES
-    443406476 -- Lazarus
+    443406476, -- Lazarus
+    3527629287 -- BP
 }
 
 local str = table.concat(ids, ",")

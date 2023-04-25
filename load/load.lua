@@ -14,5 +14,5 @@ local str = table.concat(ids, ",")
 if string.find(str, game.PlaceId) then
     loadstring(game:HttpGet("https://sirius.menu/loader", true))()
 else
-    loadstring(game:HttpGet('https://sirius.menu/sirius', true))()
+    loadstring(game:HttpGet('https://sirius.menu/script', true))()
 end

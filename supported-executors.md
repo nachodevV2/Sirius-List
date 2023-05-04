@@ -9,9 +9,6 @@ Here's a list of all supported executors for Sirius.
 
 • [Fluxus](https://fluxteam.net) (May sometimes have issues)
 
-
-• [Oxygen U](https://wearedevs.net/d/Oxygen%20U) (May sometimes have issues)
-
 ## Paid
 
 • [Synapse X](https://x.synapse.to)

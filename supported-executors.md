@@ -2,14 +2,12 @@
 
 Here's a list of all supported executors for Sirius.
 
-**Fluxus works on UWP (Microsoft Store Version). I'd recommended using it for Sirius.**
-
 ## Free
 
 • [KRNL](https://krnl.place)
 
 
-• [Fluxus](https://fluxteam.net)
+• [Fluxus](https://fluxteam.net) (Fluxus is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
 
 ## Paid
 
